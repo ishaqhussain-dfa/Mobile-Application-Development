@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “calculator operation”.
-Developed by: HARI HARAN L K
-Registeration Number : 212221040051
+Developed by: ISHAQ HUSSAIN A
+Registeration Number : 212221040059
 */
 ```
 **XML CODE:**
