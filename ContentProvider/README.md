@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text create your own content providers to get contacts details.
-Developed by: HARI HARAN L K
-Registeration Number : 212221040051
+Developed by: ISHAQ HUSSAIN A
+Registeration Number : 212221040059
 */
 ```
 **XML FILE:**
